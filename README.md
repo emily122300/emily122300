@@ -4,7 +4,7 @@ Public health data analyst | MSPH, Johns Hopkins Bloomberg School of Public Heal
 
 I work with messy administrative and survey data to produce reporting that program leaders can trust and act on: data validation, quality monitoring, program performance reporting, and health services research.
 
-**Tools:** SQL · R · SAS · Excel · Power BI · Tableau · Git
+**Tools:**  R ·SQL · SAS · Excel · Power BI  · Git
 
 ## Current project
 
